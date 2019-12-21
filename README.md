@@ -10,9 +10,9 @@ To run this application, you will need:
 * [pygame](https://www.pygame.org/wiki/GettingStarted)
 
 
-# Run and Play:
+# Run the application and Play:
 
-On terminal, go to the application folder and run GUI.py to play sudoku by tipping:
+On terminal, go to the application folder and run GUI.py to play sudoku by typping:
 ```
 python3 GUI.py
 ```
