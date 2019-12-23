@@ -19,7 +19,7 @@ python3 GUI.py
 
 ## Commands:
 
-* **Insert number:** Click on a box and type a number to fill with a number.
+* **Insert number:** Click on a box and type a number to fill it.
 * **Confirm value:** Hit ```ENTER``` key on the selected box
 * **Delete value:** Hit ```DEL``` key on the selected box
 * **Solve board:** Hit ```SPACE``` and watch algorithm run
